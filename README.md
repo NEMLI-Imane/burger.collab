@@ -1,1 +1,1 @@
-# burger.collab
+void fct()
